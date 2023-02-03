@@ -1,0 +1,60 @@
+<!-- Oblig -->
+<!-- Alvin enrique Barrantes Alvarado -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu soda Caldera</title>
+</head>
+<body>
+    <main>
+        </script>
+			<form name="menu1" id="menu1" method="post" action="factura.php">
+				<h1>Menu soda Caldera</h1>
+				Nombre Usuario:
+				<input type="text" name="Usuario" size="20"  alt="Nombre Cliente" >
+				<br><br>
+
+                <h2>Seleccione el comida fuerte</h2>
+                <br>
+				<select name="comida" id="comida">
+                    <option value="default">Seleccione su comida</option>
+                    <option value="bis">Bistec encebollado</option>
+                    <option value="cos">Costilla de cerdo BBQ</option>
+                    <option value="fil">Filet de pescado en salsa de camarones</option>
+                    <option value="mar">Arroz mar y tierra especial</option>
+                </select>
+
+                <br>
+
+                <h2>Seleccione el acompañamiento</h2>
+
+                <br>
+                <input type="checkbox" name="extra" value="torti"> Tortillla casera<br>
+
+                <input type="checkbox" name="extra" value="ensa"> Ensalada<br>
+
+                <input type="checkbox" name="extra" value="pure"> Pure de papa<br>
+
+                <input type="checkbox" name="extra" value="aros"> Aros de cebolla<br>
+
+                <br>
+
+                <h2>Seleccione la bebida</h2>
+
+                <br>
+                <input type="radio" name="bebida" value="ga"> Gaseosa <br>
+                <input type="radio" name="bebida" value="ag"> Agua <br>
+                <input type="radio" name="bebida" value="ca"> Cafe <br>
+                <input type="radio" name="bebida" value="re"> Refresco natural
+
+				<p align="center">
+					<input name="cmdApli" type="submit" value="Procesar">
+					<input name="cmdLimp" type="reset"  value="Cancelar">
+				</p>
+			</form>
+		</main>
+</body>
+</html>
