@@ -53,7 +53,7 @@ Alvin Enrique Barrantes Alvarado -->
             break;
             case "aros":
                 $extra = "Aros de cebolla";
-                $precio = 500;
+                $precio2 = 500;
                 break;
     }
 
