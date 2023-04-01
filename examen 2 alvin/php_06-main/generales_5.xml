@@ -1,0 +1,573 @@
+<?xml version='1.0' encoding='utf-8' ?><informacion>   <generalidades>      <empresa>         <nombre>Univesidad Técnica Nacional</nombre>         <carrera>Tecnologías de la Información</carrera>         <curso>Tecnologías y Sistemas Web2</curso>      </empresa>      <profesor>         <nombre>Jorge Ruiz</nombre>         <experiencia>Profesor en programación desde 1993</experiencia>      </profesor>   </generalidades>   <clasificacion><categoria>
+		                    <codigo>2</codigo>
+		                    <nombre>28 MySQL Boulevard</nombre><articulos><codart>AARON SELBY</codart><nomart>AARON.SELBY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ADAM GOOCH</codart><nomart>ADAM.GOOCH@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ADRIAN CLARY</codart><nomart>ADRIAN.CLARY@sakilacustomer.org</nomart></articulos><articulos><codart>AGNES BISHOP</codart><nomart>AGNES.BISHOP@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ALAN KAHN</codart><nomart>ALAN.KAHN@sakilacustomer.org</nomart></articulos><articulos><codart>ALBERT CROUSE</codart><nomart>ALBERT.CROUSE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ALBERTO HENNING</codart><nomart>ALBERTO.HENNING@sakilacustomer.org</nomart></articulos><articulos><codart>ALEX GRESHAM</codart><nomart>ALEX.GRESHAM@sakilacustomer.org</nomart></articulos><articulos><codart>ALEXANDER FENNELL</codart><nomart>ALEXANDER.FENNELL@sakilacustomer.org</nomart></articulos><articulos><codart>ALFRED CASILLAS</codart><nomart>ALFRED.CASILLAS@sakilacustomer.org</nomart></articulos><articulos><codart>ALFREDO MCADAMS</codart><nomart>ALFREDO.MCADAMS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ALICE STEWART</codart><nomart>ALICE.STEWART@sakilacustomer.org</nomart></articulos><articulos><codart>ALICIA MILLS</codart><nomart>ALICIA.MILLS@sakilacustomer.org</nomart></articulos><articulos><codart>ALLAN CORNISH</codart><nomart>ALLAN.CORNISH@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ALLEN BUTTERFIELD</codart><nomart>ALLEN.BUTTERFIELD@sakilacustomer.org</nomart></articulos><articulos><codart>ALLISON STANLEY</codart><nomart>ALLISON.STANLEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ALMA AUSTIN</codart><nomart>ALMA.AUSTIN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ALVIN DELOACH</codart><nomart>ALVIN.DELOACH@sakilacustomer.org</nomart></articulos><articulos><codart>AMANDA CARTER</codart><nomart>AMANDA.CARTER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>AMBER DIXON</codart><nomart>AMBER.DIXON@sakilacustomer.org</nomart></articulos><articulos><codart>AMY LOPEZ</codart><nomart>AMY.LOPEZ@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ANA BRADLEY</codart><nomart>ANA.BRADLEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ANDRE RAPP</codart><nomart>ANDRE.RAPP@sakilacustomer.org</nomart></articulos><articulos><codart>ANDREA HENDERSON</codart><nomart>ANDREA.HENDERSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ANDREW PURDY</codart><nomart>ANDREW.PURDY@sakilacustomer.org</nomart></articulos><articulos><codart>ANDY VANHORN</codart><nomart>ANDY.VANHORN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ANGEL BARCLAY</codart><nomart>ANGEL.BARCLAY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ANGELA HERNANDEZ</codart><nomart>ANGELA.HERNANDEZ@sakilacustomer.org</nomart></articulos><articulos><codart>ANITA MORALES</codart><nomart>ANITA.MORALES@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ANN EVANS</codart><nomart>ANN.EVANS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ANNA HILL</codart><nomart>ANNA.HILL@sakilacustomer.org</nomart></articulos><articulos><codart>ANNE POWELL</codart><nomart>ANNE.POWELL@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ANNETTE OLSON</codart><nomart>ANNETTE.OLSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ANNIE RUSSELL</codart><nomart>ANNIE.RUSSELL@sakilacustomer.org</nomart></articulos><articulos><codart>ANTHONY SCHWAB</codart><nomart>ANTHONY.SCHWAB@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ANTONIO MEEK</codart><nomart>ANTONIO.MEEK@sakilacustomer.org</nomart></articulos><articulos><codart>APRIL BURNS</codart><nomart>APRIL.BURNS@sakilacustomer.org</nomart></articulos><articulos><codart>ARLENE HARVEY</codart><nomart>ARLENE.HARVEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ARMANDO GRUBER</codart><nomart>ARMANDO.GRUBER@sakilacustomer.org</nomart></articulos><articulos><codart>ARNOLD HAVENS</codart><nomart>ARNOLD.HAVENS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ARTHUR SIMPKINS</codart><nomart>ARTHUR.SIMPKINS@sakilacustomer.org</nomart></articulos><articulos><codart>ASHLEY RICHARDSON</codart><nomart>ASHLEY.RICHARDSON@sakilacustomer.org</nomart></articulos><articulos><codart>AUDREY RAY</codart><nomart>AUDREY.RAY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>AUSTIN CINTRON</codart><nomart>AUSTIN.CINTRON@sakilacustomer.org</nomart></articulos><articulos><codart>BARBARA JONES</codart><nomart>BARBARA.JONES@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>BARRY LOVELACE</codart><nomart>BARRY.LOVELACE@sakilacustomer.org</nomart></articulos><articulos><codart>BEATRICE ARNOLD</codart><nomart>BEATRICE.ARNOLD@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>BECKY MILES</codart><nomart>BECKY.MILES@sakilacustomer.org</nomart></articulos><articulos><codart>BEN EASTER</codart><nomart>BEN.EASTER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>BENJAMIN VARNEY</codart><nomart>BENJAMIN.VARNEY@sakilacustomer.org</nomart></articulos><articulos><codart>BERNARD COLBY</codart><nomart>BERNARD.COLBY@sakilacustomer.org</nomart></articulos><articulos><codart>BERNICE WILLIS</codart><nomart>BERNICE.WILLIS@sakilacustomer.org</nomart></articulos><articulos><codart>BERTHA FERGUSON</codart><nomart>BERTHA.FERGUSON@sakilacustomer.org</nomart></articulos><articulos><codart>BESSIE MORRISON</codart><nomart>BESSIE.MORRISON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>BETH FRANKLIN</codart><nomart>BETH.FRANKLIN@sakilacustomer.org</nomart></articulos><articulos><codart>BETTY WHITE</codart><nomart>BETTY.WHITE@sakilacustomer.org</nomart></articulos><articulos><codart>BEVERLY BROOKS</codart><nomart>BEVERLY.BROOKS@sakilacustomer.org</nomart></articulos><articulos><codart>BILL GAVIN</codart><nomart>BILL.GAVIN@sakilacustomer.org</nomart></articulos><articulos><codart>BILLIE HORTON</codart><nomart>BILLIE.HORTON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>BILLY POULIN</codart><nomart>BILLY.POULIN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>BOB PFEIFFER</codart><nomart>BOB.PFEIFFER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>BOBBIE CRAIG</codart><nomart>BOBBIE.CRAIG@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>BOBBY BOUDREAU</codart><nomart>BOBBY.BOUDREAU@sakilacustomer.org</nomart></articulos><articulos><codart>BONNIE HUGHES</codart><nomart>BONNIE.HUGHES@sakilacustomer.org</nomart></articulos><articulos><codart>BRAD MCCURDY</codart><nomart>BRAD.MCCURDY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>BRADLEY MOTLEY</codart><nomart>BRADLEY.MOTLEY@sakilacustomer.org</nomart></articulos><articulos><codart>BRANDON HUEY</codart><nomart>BRANDON.HUEY@sakilacustomer.org</nomart></articulos><articulos><codart>BRANDY GRAVES</codart><nomart>BRANDY.GRAVES@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>BRENDA WRIGHT</codart><nomart>BRENDA.WRIGHT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>BRENT HARKINS</codart><nomart>BRENT.HARKINS@sakilacustomer.org</nomart></articulos><articulos><codart>BRETT CORNWELL</codart><nomart>BRETT.CORNWELL@sakilacustomer.org</nomart></articulos><articulos><codart>BRIAN WYMAN</codart><nomart>BRIAN.WYMAN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>BRITTANY RILEY</codart><nomart>BRITTANY.RILEY@sakilacustomer.org</nomart></articulos><articulos><codart>BRUCE SCHWARZ</codart><nomart>BRUCE.SCHWARZ@sakilacustomer.org</nomart></articulos><articulos><codart>BRYAN HARDISON</codart><nomart>BRYAN.HARDISON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>BYRON BOX</codart><nomart>BYRON.BOX@sakilacustomer.org</nomart></articulos><articulos><codart>CALVIN MARTEL</codart><nomart>CALVIN.MARTEL@sakilacustomer.org</nomart></articulos><articulos><codart>CARL ARTIS</codart><nomart>CARL.ARTIS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CARLA GUTIERREZ</codart><nomart>CARLA.GUTIERREZ@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CARLOS COUGHLIN</codart><nomart>CARLOS.COUGHLIN@sakilacustomer.org</nomart></articulos><articulos><codart>CARMEN OWENS</codart><nomart>CARMEN.OWENS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CAROL GARCIA</codart><nomart>CAROL.GARCIA@sakilacustomer.org</nomart></articulos><articulos><codart>CAROLE BARNETT</codart><nomart>CAROLE.BARNETT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CAROLINE BOWMAN</codart><nomart>CAROLINE.BOWMAN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CAROLYN PEREZ</codart><nomart>CAROLYN.PEREZ@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CARRIE PORTER</codart><nomart>CARRIE.PORTER@sakilacustomer.org</nomart></articulos><articulos><codart>CASEY MENA</codart><nomart>CASEY.MENA@sakilacustomer.org</nomart></articulos><articulos><codart>CASSANDRA WALTERS</codart><nomart>CASSANDRA.WALTERS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CATHERINE CAMPBELL</codart><nomart>CATHERINE.CAMPBELL@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CATHY SPENCER</codart><nomart>CATHY.SPENCER@sakilacustomer.org</nomart></articulos><articulos><codart>CECIL VINES</codart><nomart>CECIL.VINES@sakilacustomer.org</nomart></articulos><articulos><codart>CHAD CARBONE</codart><nomart>CHAD.CARBONE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CHARLENE ALVAREZ</codart><nomart>CHARLENE.ALVAREZ@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CHARLES KOWALSKI</codart><nomart>CHARLES.KOWALSKI@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CHARLIE BESS</codart><nomart>CHARLIE.BESS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CHARLOTTE HUNTER</codart><nomart>CHARLOTTE.HUNTER@sakilacustomer.org</nomart></articulos><articulos><codart>CHERYL MURPHY</codart><nomart>CHERYL.MURPHY@sakilacustomer.org</nomart></articulos><articulos><codart>CHESTER BENNER</codart><nomart>CHESTER.BENNER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CHRIS BROTHERS</codart><nomart>CHRIS.BROTHERS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CHRISTIAN JUNG</codart><nomart>CHRISTIAN.JUNG@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CHRISTINA RAMIREZ</codart><nomart>CHRISTINA.RAMIREZ@sakilacustomer.org</nomart></articulos><articulos><codart>CHRISTINE ROBERTS</codart><nomart>CHRISTINE.ROBERTS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CHRISTOPHER GRECO</codart><nomart>CHRISTOPHER.GRECO@sakilacustomer.org</nomart></articulos><articulos><codart>CHRISTY VARGAS</codart><nomart>CHRISTY.VARGAS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CINDY FISHER</codart><nomart>CINDY.FISHER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CLARA SHAW</codart><nomart>CLARA.SHAW@sakilacustomer.org</nomart></articulos><articulos><codart>CLARENCE GAMEZ</codart><nomart>CLARENCE.GAMEZ@sakilacustomer.org</nomart></articulos><articulos><codart>CLAUDE HERZOG</codart><nomart>CLAUDE.HERZOG@sakilacustomer.org</nomart></articulos><articulos><codart>CLAUDIA FULLER</codart><nomart>CLAUDIA.FULLER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CLAYTON BARBEE</codart><nomart>CLAYTON.BARBEE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CLIFFORD BOWENS</codart><nomart>CLIFFORD.BOWENS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CLIFTON MALCOLM</codart><nomart>CLIFTON.MALCOLM@sakilacustomer.org</nomart></articulos><articulos><codart>CLINTON BUFORD</codart><nomart>CLINTON.BUFORD@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CLYDE TOBIAS</codart><nomart>CLYDE.TOBIAS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CODY NOLEN</codart><nomart>CODY.NOLEN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>COLLEEN BURTON</codart><nomart>COLLEEN.BURTON@sakilacustomer.org</nomart></articulos><articulos><codart>CONNIE WALLACE</codart><nomart>CONNIE.WALLACE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CONSTANCE REID</codart><nomart>CONSTANCE.REID@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>COREY HAUSER</codart><nomart>COREY.HAUSER@sakilacustomer.org</nomart></articulos><articulos><codart>CORY MEEHAN</codart><nomart>CORY.MEEHAN@sakilacustomer.org</nomart></articulos><articulos><codart>COURTNEY DAY</codart><nomart>COURTNEY.DAY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CRAIG MORRELL</codart><nomart>CRAIG.MORRELL@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CRYSTAL FORD</codart><nomart>CRYSTAL.FORD@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>CURTIS IRBY</codart><nomart>CURTIS.IRBY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>CYNTHIA YOUNG</codart><nomart>CYNTHIA.YOUNG@sakilacustomer.org</nomart></articulos><articulos><codart>DAISY BATES</codart><nomart>DAISY.BATES@sakilacustomer.org</nomart></articulos><articulos><codart>DALE RATCLIFF</codart><nomart>DALE.RATCLIFF@sakilacustomer.org</nomart></articulos><articulos><codart>DAN PAINE</codart><nomart>DAN.PAINE@sakilacustomer.org</nomart></articulos><articulos><codart>DANA HART</codart><nomart>DANA.HART@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>DANIEL CABRAL</codart><nomart>DANIEL.CABRAL@sakilacustomer.org</nomart></articulos><articulos><codart>DANIELLE DANIELS</codart><nomart>DANIELLE.DANIELS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>DANNY ISOM</codart><nomart>DANNY.ISOM@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>DARLENE ROSE</codart><nomart>DARLENE.ROSE@sakilacustomer.org</nomart></articulos><articulos><codart>DARRELL POWER</codart><nomart>DARRELL.POWER@sakilacustomer.org</nomart></articulos><articulos><codart>DARREN WINDHAM</codart><nomart>DARREN.WINDHAM@sakilacustomer.org</nomart></articulos><articulos><codart>DARRYL ASHCRAFT</codart><nomart>DARRYL.ASHCRAFT@sakilacustomer.org</nomart></articulos><articulos><codart>DARYL LARUE</codart><nomart>DARYL.LARUE@sakilacustomer.org</nomart></articulos><articulos><codart>DAVE GARDINER</codart><nomart>DAVE.GARDINER@sakilacustomer.org</nomart></articulos><articulos><codart>DAVID ROYAL</codart><nomart>DAVID.ROYAL@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>DAWN SULLIVAN</codart><nomart>DAWN.SULLIVAN@sakilacustomer.org</nomart></articulos><articulos><codart>DEAN SAUER</codart><nomart>DEAN.SAUER@sakilacustomer.org</nomart></articulos><articulos><codart>DEANNA BYRD</codart><nomart>DEANNA.BYRD@sakilacustomer.org</nomart></articulos><articulos><codart>DEBBIE REYES</codart><nomart>DEBBIE.REYES@sakilacustomer.org</nomart></articulos><articulos><codart>DEBORAH WALKER</codart><nomart>DEBORAH.WALKER@sakilacustomer.org</nomart></articulos><articulos><codart>DEBRA NELSON</codart><nomart>DEBRA.NELSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>DELORES HANSEN</codart><nomart>DELORES.HANSEN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>DENISE KELLY</codart><nomart>DENISE.KELLY@sakilacustomer.org</nomart></articulos><articulos><codart>DENNIS GILMAN</codart><nomart>DENNIS.GILMAN@sakilacustomer.org</nomart></articulos><articulos><codart>DEREK BLAKELY</codart><nomart>DEREK.BLAKELY@sakilacustomer.org</nomart></articulos><articulos><codart>DERRICK BOURQUE</codart><nomart>DERRICK.BOURQUE@sakilacustomer.org</nomart></articulos><articulos><codart>DIANA ALEXANDER</codart><nomart>DIANA.ALEXANDER@sakilacustomer.org</nomart></articulos><articulos><codart>DIANE COLLINS</codart><nomart>DIANE.COLLINS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>DIANNE SHELTON</codart><nomart>DIANNE.SHELTON@sakilacustomer.org</nomart></articulos><articulos><codart>DOLORES WAGNER</codart><nomart>DOLORES.WAGNER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>DON BONE</codart><nomart>DON.BONE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>DONALD MAHON</codart><nomart>DONALD.MAHON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>DONNA THOMPSON</codart><nomart>DONNA.THOMPSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>DORA MEDINA</codart><nomart>DORA.MEDINA@sakilacustomer.org</nomart></articulos><articulos><codart>DORIS REED</codart><nomart>DORIS.REED@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>DOROTHY TAYLOR</codart><nomart>DOROTHY.TAYLOR@sakilacustomer.org</nomart></articulos><articulos><codart>DOUGLAS GRAF</codart><nomart>DOUGLAS.GRAF@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>DUANE TUBBS</codart><nomart>DUANE.TUBBS@sakilacustomer.org</nomart></articulos><articulos><codart>DUSTIN GILLETTE</codart><nomart>DUSTIN.GILLETTE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>DWAYNE OLVERA</codart><nomart>DWAYNE.OLVERA@sakilacustomer.org</nomart></articulos><articulos><codart>DWIGHT LOMBARDI</codart><nomart>DWIGHT.LOMBARDI@sakilacustomer.org</nomart></articulos><articulos><codart>EARL SHANKS</codart><nomart>EARL.SHANKS@sakilacustomer.org</nomart></articulos><articulos><codart>EDDIE TOMLIN</codart><nomart>EDDIE.TOMLIN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>EDGAR RHOADS</codart><nomart>EDGAR.RHOADS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>EDITH MCDONALD</codart><nomart>EDITH.MCDONALD@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>EDNA WEST</codart><nomart>EDNA.WEST@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>EDUARDO HIATT</codart><nomart>EDUARDO.HIATT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>EDWARD BAUGH</codart><nomart>EDWARD.BAUGH@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>EDWIN BURK</codart><nomart>EDWIN.BURK@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>EILEEN CARR</codart><nomart>EILEEN.CARR@sakilacustomer.org</nomart></articulos><articulos><codart>ELAINE STEVENS</codart><nomart>ELAINE.STEVENS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ELEANOR HUNT</codart><nomart>ELEANOR.HUNT@sakilacustomer.org</nomart></articulos><articulos><codart>ELIZABETH BROWN</codart><nomart>ELIZABETH.BROWN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ELLA OLIVER</codart><nomart>ELLA.OLIVER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ELLEN SIMPSON</codart><nomart>ELLEN.SIMPSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ELMER NOE</codart><nomart>ELMER.NOE@sakilacustomer.org</nomart></articulos><articulos><codart>ELSIE KELLEY</codart><nomart>ELSIE.KELLEY@sakilacustomer.org</nomart></articulos><articulos><codart>EMILY DIAZ</codart><nomart>EMILY.DIAZ@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>EMMA BOYD</codart><nomart>EMMA.BOYD@sakilacustomer.org</nomart></articulos><articulos><codart>ENRIQUE FORSYTHE</codart><nomart>ENRIQUE.FORSYTHE@sakilacustomer.org</nomart></articulos><articulos><codart>ERIC ROBERT</codart><nomart>ERIC.ROBERT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ERICA MATTHEWS</codart><nomart>ERICA.MATTHEWS@sakilacustomer.org</nomart></articulos><articulos><codart>ERIK GUILLEN</codart><nomart>ERIK.GUILLEN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ERIKA PENA</codart><nomart>ERIKA.PENA@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ERIN DUNN</codart><nomart>ERIN.DUNN@sakilacustomer.org</nomart></articulos><articulos><codart>ERNEST STEPP</codart><nomart>ERNEST.STEPP@sakilacustomer.org</nomart></articulos><articulos><codart>ESTHER CRAWFORD</codart><nomart>ESTHER.CRAWFORD@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ETHEL WEBB</codart><nomart>ETHEL.WEBB@sakilacustomer.org</nomart></articulos><articulos><codart>EUGENE CULPEPPER</codart><nomart>EUGENE.CULPEPPER@sakilacustomer.org</nomart></articulos><articulos><codart>EVA RAMOS</codart><nomart>EVA.RAMOS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>EVELYN MORGAN</codart><nomart>EVELYN.MORGAN@sakilacustomer.org</nomart></articulos><articulos><codart>EVERETT BANDA</codart><nomart>EVERETT.BANDA@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>FELICIA SUTTON</codart><nomart>FELICIA.SUTTON@sakilacustomer.org</nomart></articulos><articulos><codart>FELIX GAFFNEY</codart><nomart>FELIX.GAFFNEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>FERNANDO CHURCHILL</codart><nomart>FERNANDO.CHURCHILL@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>FLORENCE WOODS</codart><nomart>FLORENCE.WOODS@sakilacustomer.org</nomart></articulos><articulos><codart>FLOYD GANDY</codart><nomart>FLOYD.GANDY@sakilacustomer.org</nomart></articulos><articulos><codart>FRANCES PARKER</codart><nomart>FRANCES.PARKER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>FRANCIS SIKES</codart><nomart>FRANCIS.SIKES@sakilacustomer.org</nomart></articulos><articulos><codart>FRANCISCO SKIDMORE</codart><nomart>FRANCISCO.SKIDMORE@sakilacustomer.org</nomart></articulos><articulos><codart>FRANK WAGGONER</codart><nomart>FRANK.WAGGONER@sakilacustomer.org</nomart></articulos><articulos><codart>FRANKLIN TROUTMAN</codart><nomart>FRANKLIN.TROUTMAN@sakilacustomer.org</nomart></articulos><articulos><codart>FRED WHEAT</codart><nomart>FRED.WHEAT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>FREDDIE DUGGAN</codart><nomart>FREDDIE.DUGGAN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>FREDERICK ISBELL</codart><nomart>FREDERICK.ISBELL@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>GABRIEL HARDER</codart><nomart>GABRIEL.HARDER@sakilacustomer.org</nomart></articulos><articulos><codart>GAIL KNIGHT</codart><nomart>GAIL.KNIGHT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>GARY COY</codart><nomart>GARY.COY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>GENE SANBORN</codart><nomart>GENE.SANBORN@sakilacustomer.org</nomart></articulos><articulos><codart>GEORGE LINTON</codart><nomart>GEORGE.LINTON@sakilacustomer.org</nomart></articulos><articulos><codart>GEORGIA JACOBS</codart><nomart>GEORGIA.JACOBS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>GERALD FULTZ</codart><nomart>GERALD.FULTZ@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>GERALDINE PERKINS</codart><nomart>GERALDINE.PERKINS@sakilacustomer.org</nomart></articulos><articulos><codart>GERTRUDE CASTILLO</codart><nomart>GERTRUDE.CASTILLO@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>GILBERT SLEDGE</codart><nomart>GILBERT.SLEDGE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>GINA WILLIAMSON</codart><nomart>GINA.WILLIAMSON@sakilacustomer.org</nomart></articulos><articulos><codart>GLADYS HAMILTON</codart><nomart>GLADYS.HAMILTON@sakilacustomer.org</nomart></articulos><articulos><codart>GLEN TALBERT</codart><nomart>GLEN.TALBERT@sakilacustomer.org</nomart></articulos><articulos><codart>GLENDA FRAZIER</codart><nomart>GLENDA.FRAZIER@sakilacustomer.org</nomart></articulos><articulos><codart>GLENN PULLEN</codart><nomart>GLENN.PULLEN@sakilacustomer.org</nomart></articulos><articulos><codart>GLORIA COOK</codart><nomart>GLORIA.COOK@sakilacustomer.org</nomart></articulos><articulos><codart>GORDON ALLARD</codart><nomart>GORDON.ALLARD@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>GRACE ELLIS</codart><nomart>GRACE.ELLIS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>GREG ROBINS</codart><nomart>GREG.ROBINS@sakilacustomer.org</nomart></articulos><articulos><codart>GREGORY MAULDIN</codart><nomart>GREGORY.MAULDIN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>GUY BROWNLEE</codart><nomart>GUY.BROWNLEE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>GWENDOLYN MAY</codart><nomart>GWENDOLYN.MAY@sakilacustomer.org</nomart></articulos><articulos><codart>HAROLD MARTINO</codart><nomart>HAROLD.MARTINO@sakilacustomer.org</nomart></articulos><articulos><codart>HARRY ARCE</codart><nomart>HARRY.ARCE@sakilacustomer.org</nomart></articulos><articulos><codart>HARVEY GUAJARDO</codart><nomart>HARVEY.GUAJARDO@sakilacustomer.org</nomart></articulos><articulos><codart>HAZEL WARREN</codart><nomart>HAZEL.WARREN@sakilacustomer.org</nomart></articulos><articulos><codart>HEATHER MORRIS</codart><nomart>HEATHER.MORRIS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>HECTOR POINDEXTER</codart><nomart>HECTOR.POINDEXTER@sakilacustomer.org</nomart></articulos><articulos><codart>HEIDI LARSON</codart><nomart>HEIDI.LARSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>HELEN HARRIS</codart><nomart>HELEN.HARRIS@sakilacustomer.org</nomart></articulos><articulos><codart>HENRY BILLINGSLEY</codart><nomart>HENRY.BILLINGSLEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>HERBERT KRUGER</codart><nomart>HERBERT.KRUGER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>HERMAN DEVORE</codart><nomart>HERMAN.DEVORE@sakilacustomer.org</nomart></articulos><articulos><codart>HILDA HOPKINS</codart><nomart>HILDA.HOPKINS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>HOLLY FOX</codart><nomart>HOLLY.FOX@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>HOWARD FORTNER</codart><nomart>HOWARD.FORTNER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>HUGH WALDROP</codart><nomart>HUGH.WALDROP@sakilacustomer.org</nomart></articulos><articulos><codart>IAN STILL</codart><nomart>IAN.STILL@sakilacustomer.org</nomart></articulos><articulos><codart>IDA ANDREWS</codart><nomart>IDA.ANDREWS@sakilacustomer.org</nomart></articulos><articulos><codart>IRENE PRICE</codart><nomart>IRENE.PRICE@sakilacustomer.org</nomart></articulos><articulos><codart>IRMA PEARSON</codart><nomart>IRMA.PEARSON@sakilacustomer.org</nomart></articulos><articulos><codart>ISAAC OGLESBY</codart><nomart>ISAAC.OGLESBY@sakilacustomer.org</nomart></articulos><articulos><codart>IVAN CROMWELL</codart><nomart>IVAN.CROMWELL@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JACK FOUST</codart><nomart>JACK.FOUST@sakilacustomer.org</nomart></articulos><articulos><codart>JACKIE LYNCH</codart><nomart>JACKIE.LYNCH@sakilacustomer.org</nomart></articulos><articulos><codart>JACOB LANCE</codart><nomart>JACOB.LANCE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JACQUELINE LONG</codart><nomart>JACQUELINE.LONG@sakilacustomer.org</nomart></articulos><articulos><codart>JAIME NETTLES</codart><nomart>JAIME.NETTLES@sakilacustomer.org</nomart></articulos><articulos><codart>JAMES GANNON</codart><nomart>JAMES.GANNON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JAMIE RICE</codart><nomart>JAMIE.RICE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JAMIE WAUGH</codart><nomart>JAMIE.WAUGH@sakilacustomer.org</nomart></articulos><articulos><codart>JANE BENNETT</codart><nomart>JANE.BENNETT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JANET PHILLIPS</codart><nomart>JANET.PHILLIPS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JANICE WARD</codart><nomart>JANICE.WARD@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JARED ELY</codart><nomart>JARED.ELY@sakilacustomer.org</nomart></articulos><articulos><codart>JASON MORRISSEY</codart><nomart>JASON.MORRISSEY@sakilacustomer.org</nomart></articulos><articulos><codart>JAVIER ELROD</codart><nomart>JAVIER.ELROD@sakilacustomer.org</nomart></articulos><articulos><codart>JAY ROBB</codart><nomart>JAY.ROBB@sakilacustomer.org</nomart></articulos><articulos><codart>JEAN BELL</codart><nomart>JEAN.BELL@sakilacustomer.org</nomart></articulos><articulos><codart>JEANETTE GREENE</codart><nomart>JEANETTE.GREENE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JEANNE LAWSON</codart><nomart>JEANNE.LAWSON@sakilacustomer.org</nomart></articulos><articulos><codart>JEFF EAST</codart><nomart>JEFF.EAST@sakilacustomer.org</nomart></articulos><articulos><codart>JEFFERY PINSON</codart><nomart>JEFFERY.PINSON@sakilacustomer.org</nomart></articulos><articulos><codart>JEFFREY SPEAR</codart><nomart>JEFFREY.SPEAR@sakilacustomer.org</nomart></articulos><articulos><codart>JENNIE TERRY</codart><nomart>JENNIE.TERRY@sakilacustomer.org</nomart></articulos><articulos><codart>JENNIFER DAVIS</codart><nomart>JENNIFER.DAVIS@sakilacustomer.org</nomart></articulos><articulos><codart>JENNY CASTRO</codart><nomart>JENNY.CASTRO@sakilacustomer.org</nomart></articulos><articulos><codart>JEREMY HURTADO</codart><nomart>JEREMY.HURTADO@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JEROME KENYON</codart><nomart>JEROME.KENYON@sakilacustomer.org</nomart></articulos><articulos><codart>JERRY JORDON</codart><nomart>JERRY.JORDON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JESSE SCHILLING</codart><nomart>JESSE.SCHILLING@sakilacustomer.org</nomart></articulos><articulos><codart>JESSICA HALL</codart><nomart>JESSICA.HALL@sakilacustomer.org</nomart></articulos><articulos><codart>JESSIE BANKS</codart><nomart>JESSIE.BANKS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JESSIE MILAM</codart><nomart>JESSIE.MILAM@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JESUS MCCARTNEY</codart><nomart>JESUS.MCCARTNEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JILL HAWKINS</codart><nomart>JILL.HAWKINS@sakilacustomer.org</nomart></articulos><articulos><codart>JIM REA</codart><nomart>JIM.REA@sakilacustomer.org</nomart></articulos><articulos><codart>JIMMIE EGGLESTON</codart><nomart>JIMMIE.EGGLESTON@sakilacustomer.org</nomart></articulos><articulos><codart>JIMMY SCHRADER</codart><nomart>JIMMY.SCHRADER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JO FOWLER</codart><nomart>JO.FOWLER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JOAN COOPER</codart><nomart>JOAN.COOPER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JOANN GARDNER</codart><nomart>JOANN.GARDNER@sakilacustomer.org</nomart></articulos><articulos><codart>JOANNE ROBERTSON</codart><nomart>JOANNE.ROBERTSON@sakilacustomer.org</nomart></articulos><articulos><codart>JOE GILLILAND</codart><nomart>JOE.GILLILAND@sakilacustomer.org</nomart></articulos><articulos><codart>JOEL FRANCISCO</codart><nomart>JOEL.FRANCISCO@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JOHN FARNSWORTH</codart><nomart>JOHN.FARNSWORTH@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JOHNNIE CHISHOLM</codart><nomart>JOHNNIE.CHISHOLM@sakilacustomer.org</nomart></articulos><articulos><codart>JOHNNY TURPIN</codart><nomart>JOHNNY.TURPIN@sakilacustomer.org</nomart></articulos><articulos><codart>JON WILES</codart><nomart>JON.WILES@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JONATHAN SCARBOROUGH</codart><nomart>JONATHAN.SCARBOROUGH@sakilacustomer.org</nomart></articulos><articulos><codart>JORDAN ARCHULETA</codart><nomart>JORDAN.ARCHULETA@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JORGE OLIVARES</codart><nomart>JORGE.OLIVARES@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JOSE ANDREW</codart><nomart>JOSE.ANDREW@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JOSEPH JOY</codart><nomart>JOSEPH.JOY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JOSEPHINE GOMEZ</codart><nomart>JOSEPHINE.GOMEZ@sakilacustomer.org</nomart></articulos><articulos><codart>JOSHUA MARK</codart><nomart>JOSHUA.MARK@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JOY GEORGE</codart><nomart>JOY.GEORGE@sakilacustomer.org</nomart></articulos><articulos><codart>JOYCE EDWARDS</codart><nomart>JOYCE.EDWARDS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JUAN FRALEY</codart><nomart>JUAN.FRALEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JUANITA MASON</codart><nomart>JUANITA.MASON@sakilacustomer.org</nomart></articulos><articulos><codart>JUDITH COX</codart><nomart>JUDITH.COX@sakilacustomer.org</nomart></articulos><articulos><codart>JUDY GRAY</codart><nomart>JUDY.GRAY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JULIA FLORES</codart><nomart>JULIA.FLORES@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JULIAN VEST</codart><nomart>JULIAN.VEST@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JULIE SANCHEZ</codart><nomart>JULIE.SANCHEZ@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JULIO NOLAND</codart><nomart>JULIO.NOLAND@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>JUNE CARROLL</codart><nomart>JUNE.CARROLL@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>JUSTIN NGO</codart><nomart>JUSTIN.NGO@sakilacustomer.org</nomart></articulos><articulos><codart>KAREN JACKSON</codart><nomart>KAREN.JACKSON@sakilacustomer.org</nomart></articulos><articulos><codart>KARL SEAL</codart><nomart>KARL.SEAL@sakilacustomer.org</nomart></articulos><articulos><codart>KATHERINE RIVERA</codart><nomart>KATHERINE.RIVERA@sakilacustomer.org</nomart></articulos><articulos><codart>KATHLEEN ADAMS</codart><nomart>KATHLEEN.ADAMS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>KATHRYN COLEMAN</codart><nomart>KATHRYN.COLEMAN@sakilacustomer.org</nomart></articulos><articulos><codart>KATHY JAMES</codart><nomart>KATHY.JAMES@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>KATIE ELLIOTT</codart><nomart>KATIE.ELLIOTT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>KAY CALDWELL</codart><nomart>KAY.CALDWELL@sakilacustomer.org</nomart></articulos><articulos><codart>KEITH RICO</codart><nomart>KEITH.RICO@sakilacustomer.org</nomart></articulos><articulos><codart>KELLY KNOTT</codart><nomart>KELLY.KNOTT@sakilacustomer.org</nomart></articulos><articulos><codart>KELLY TORRES</codart><nomart>KELLY.TORRES@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>KEN PREWITT</codart><nomart>KEN.PREWITT@sakilacustomer.org</nomart></articulos><articulos><codart>KENNETH GOODEN</codart><nomart>KENNETH.GOODEN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>KENT ARSENAULT</codart><nomart>KENT.ARSENAULT@sakilacustomer.org</nomart></articulos><articulos><codart>KEVIN SCHULER</codart><nomart>KEVIN.SCHULER@sakilacustomer.org</nomart></articulos><articulos><codart>KIM CRUZ</codart><nomart>KIM.CRUZ@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>KIMBERLY LEE</codart><nomart>KIMBERLY.LEE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>KIRK STCLAIR</codart><nomart>KIRK.STCLAIR@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>KRISTEN CHAVEZ</codart><nomart>KRISTEN.CHAVEZ@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>KRISTIN JOHNSTON</codart><nomart>KRISTIN.JOHNSTON@sakilacustomer.org</nomart></articulos><articulos><codart>KRISTINA CHAMBERS</codart><nomart>KRISTINA.CHAMBERS@sakilacustomer.org</nomart></articulos><articulos><codart>KURT EMMONS</codart><nomart>KURT.EMMONS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>KYLE SPURLOCK</codart><nomart>KYLE.SPURLOCK@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>LANCE PEMBERTON</codart><nomart>LANCE.PEMBERTON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>LARRY THRASHER</codart><nomart>LARRY.THRASHER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>LAURA RODRIGUEZ</codart><nomart>LAURA.RODRIGUEZ@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>LAUREN HUDSON</codart><nomart>LAUREN.HUDSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>LAURIE LAWRENCE</codart><nomart>LAURIE.LAWRENCE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>LAWRENCE LAWTON</codart><nomart>LAWRENCE.LAWTON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>LEAH CURTIS</codart><nomart>LEAH.CURTIS@sakilacustomer.org</nomart></articulos><articulos><codart>LEE HAWKS</codart><nomart>LEE.HAWKS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>LENA JENSEN</codart><nomart>LENA.JENSEN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>LEO EBERT</codart><nomart>LEO.EBERT@sakilacustomer.org</nomart></articulos><articulos><codart>LEON BOSTIC</codart><nomart>LEON.BOSTIC@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>LEONA OBRIEN</codart><nomart>LEONA.OBRIEN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>LEONARD SCHOFIELD</codart><nomart>LEONARD.SCHOFIELD@sakilacustomer.org</nomart></articulos><articulos><codart>LEROY BUSTAMANTE</codart><nomart>LEROY.BUSTAMANTE@sakilacustomer.org</nomart></articulos><articulos><codart>LESLIE GORDON</codart><nomart>LESLIE.GORDON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>LESLIE SEWARD</codart><nomart>LESLIE.SEWARD@sakilacustomer.org</nomart></articulos><articulos><codart>LESTER KRAUS</codart><nomart>LESTER.KRAUS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>LEWIS LYMAN</codart><nomart>LEWIS.LYMAN@sakilacustomer.org</nomart></articulos><articulos><codart>LILLIAN GRIFFIN</codart><nomart>LILLIAN.GRIFFIN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>LILLIE KIM</codart><nomart>LILLIE.KIM@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>LINDA WILLIAMS</codart><nomart>LINDA.WILLIAMS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>LISA ANDERSON</codart><nomart>LISA.ANDERSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>LLOYD DOWD</codart><nomart>LLOYD.DOWD@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>LOIS BUTLER</codart><nomart>LOIS.BUTLER@sakilacustomer.org</nomart></articulos><articulos><codart>LONNIE TIRADO</codart><nomart>LONNIE.TIRADO@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>LORETTA CARPENTER</codart><nomart>LORETTA.CARPENTER@sakilacustomer.org</nomart></articulos><articulos><codart>LORI WOOD</codart><nomart>LORI.WOOD@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>LORRAINE STEPHENS</codart><nomart>LORRAINE.STEPHENS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>LOUIS LEONE</codart><nomart>LOUIS.LEONE@sakilacustomer.org</nomart></articulos><articulos><codart>LOUISE JENKINS</codart><nomart>LOUISE.JENKINS@sakilacustomer.org</nomart></articulos><articulos><codart>LUCILLE HOLMES</codart><nomart>LUCILLE.HOLMES@sakilacustomer.org</nomart></articulos><articulos><codart>LUCY WHEELER</codart><nomart>LUCY.WHEELER@sakilacustomer.org</nomart></articulos><articulos><codart>LUIS YANEZ</codart><nomart>LUIS.YANEZ@sakilacustomer.org</nomart></articulos><articulos><codart>LYDIA BURKE</codart><nomart>LYDIA.BURKE@sakilacustomer.org</nomart></articulos><articulos><codart>LYNN PAYNE</codart><nomart>LYNN.PAYNE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>MABEL HOLLAND</codart><nomart>MABEL.HOLLAND@sakilacustomer.org</nomart></articulos><articulos><codart>MAE FLETCHER</codart><nomart>MAE.FLETCHER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>MANUEL MURRELL</codart><nomart>MANUEL.MURRELL@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>MARC OUTLAW</codart><nomart>MARC.OUTLAW@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>MARCIA DEAN</codart><nomart>MARCIA.DEAN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>MARCUS HIDALGO</codart><nomart>MARCUS.HIDALGO@sakilacustomer.org</nomart></articulos><articulos><codart>MARGARET MOORE</codart><nomart>MARGARET.MOORE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>MARGIE WADE</codart><nomart>MARGIE.WADE@sakilacustomer.org</nomart></articulos><articulos><codart>MARIA MILLER</codart><nomart>MARIA.MILLER@sakilacustomer.org</nomart></articulos><articulos><codart>MARIAN MENDOZA</codart><nomart>MARIAN.MENDOZA@sakilacustomer.org</nomart></articulos><articulos><codart>MARIE TURNER</codart><nomart>MARIE.TURNER@sakilacustomer.org</nomart></articulos><articulos><codart>MARILYN ROSS</codart><nomart>MARILYN.ROSS@sakilacustomer.org</nomart></articulos><articulos><codart>MARIO CHEATHAM</codart><nomart>MARIO.CHEATHAM@sakilacustomer.org</nomart></articulos><articulos><codart>MARION OCAMPO</codart><nomart>MARION.OCAMPO@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>MARION SNYDER</codart><nomart>MARION.SNYDER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>MARJORIE TUCKER</codart><nomart>MARJORIE.TUCKER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>MARK RINEHART</codart><nomart>MARK.RINEHART@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>MARLENE WELCH</codart><nomart>MARLENE.WELCH@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>MARSHA DOUGLAS</codart><nomart>MARSHA.DOUGLAS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>MARSHALL THORN</codart><nomart>MARSHALL.THORN@sakilacustomer.org</nomart></articulos><articulos><codart>MARTHA GONZALEZ</codart><nomart>MARTHA.GONZALEZ@sakilacustomer.org</nomart></articulos><articulos><codart>MARTIN BALES</codart><nomart>MARTIN.BALES@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>MARVIN YEE</codart><nomart>MARVIN.YEE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>MARY SMITH</codart><nomart>MARY.SMITH@sakilacustomer.org</nomart></articulos><articulos><codart>MATHEW BOLIN</codart><nomart>MATHEW.BOLIN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>MATTHEW MAHAN</codart><nomart>MATTHEW.MAHAN@sakilacustomer.org</nomart></articulos><articulos><codart>MATTIE HOFFMAN</codart><nomart>MATTIE.HOFFMAN@sakilacustomer.org</nomart></articulos><articulos><codart>MAUREEN LITTLE</codart><nomart>MAUREEN.LITTLE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>MAURICE CRAWLEY</codart><nomart>MAURICE.CRAWLEY@sakilacustomer.org</nomart></articulos><articulos><codart>MAX PITT</codart><nomart>MAX.PITT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>MAXINE SILVA</codart><nomart>MAXINE.SILVA@sakilacustomer.org</nomart></articulos><articulos><codart>MEGAN PALMER</codart><nomart>MEGAN.PALMER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>MELANIE ARMSTRONG</codart><nomart>MELANIE.ARMSTRONG@sakilacustomer.org</nomart></articulos><articulos><codart>MELINDA FERNANDEZ</codart><nomart>MELINDA.FERNANDEZ@sakilacustomer.org</nomart></articulos><articulos><codart>MELISSA KING</codart><nomart>MELISSA.KING@sakilacustomer.org</nomart></articulos><articulos><codart>MELVIN ELLINGTON</codart><nomart>MELVIN.ELLINGTON@sakilacustomer.org</nomart></articulos><articulos><codart>MICHAEL SILVERMAN</codart><nomart>MICHAEL.SILVERMAN@sakilacustomer.org</nomart></articulos><articulos><codart>MICHEAL FORMAN</codart><nomart>MICHEAL.FORMAN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>MICHELE GRANT</codart><nomart>MICHELE.GRANT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>MICHELLE CLARK</codart><nomart>MICHELLE.CLARK@sakilacustomer.org</nomart></articulos><articulos><codart>MIGUEL BETANCOURT</codart><nomart>MIGUEL.BETANCOURT@sakilacustomer.org</nomart></articulos><articulos><codart>MIKE WAY</codart><nomart>MIKE.WAY@sakilacustomer.org</nomart></articulos><articulos><codart>MILDRED BAILEY</codart><nomart>MILDRED.BAILEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>MILTON HOWLAND</codart><nomart>MILTON.HOWLAND@sakilacustomer.org</nomart></articulos><articulos><codart>MINNIE ROMERO</codart><nomart>MINNIE.ROMERO@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>MIRIAM MCKINNEY</codart><nomart>MIRIAM.MCKINNEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>MISTY LAMBERT</codart><nomart>MISTY.LAMBERT@sakilacustomer.org</nomart></articulos><articulos><codart>MITCHELL WESTMORELAND</codart><nomart>MITCHELL.WESTMORELAND@sakilacustomer.org</nomart></articulos><articulos><codart>MONICA HICKS</codart><nomart>MONICA.HICKS@sakilacustomer.org</nomart></articulos><articulos><codart>MORRIS MCCARTER</codart><nomart>MORRIS.MCCARTER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>MYRTLE FLEMING</codart><nomart>MYRTLE.FLEMING@sakilacustomer.org</nomart></articulos><articulos><codart>NANCY THOMAS</codart><nomart>NANCY.THOMAS@sakilacustomer.org</nomart></articulos><articulos><codart>NAOMI JENNINGS</codart><nomart>NAOMI.JENNINGS@sakilacustomer.org</nomart></articulos><articulos><codart>NATALIE MEYER</codart><nomart>NATALIE.MEYER@sakilacustomer.org</nomart></articulos><articulos><codart>NATHAN RUNYON</codart><nomart>NATHAN.RUNYON@sakilacustomer.org</nomart></articulos><articulos><codart>NATHANIEL ADAM</codart><nomart>NATHANIEL.ADAM@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>NEIL RENNER</codart><nomart>NEIL.RENNER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>NELLIE GARRETT</codart><nomart>NELLIE.GARRETT@sakilacustomer.org</nomart></articulos><articulos><codart>NELSON CHRISTENSON</codart><nomart>NELSON.CHRISTENSON@sakilacustomer.org</nomart></articulos><articulos><codart>NICHOLAS BARFIELD</codart><nomart>NICHOLAS.BARFIELD@sakilacustomer.org</nomart></articulos><articulos><codart>NICOLE PETERSON</codart><nomart>NICOLE.PETERSON@sakilacustomer.org</nomart></articulos><articulos><codart>NINA SOTO</codart><nomart>NINA.SOTO@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>NORA HERRERA</codart><nomart>NORA.HERRERA@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>NORMA GONZALES</codart><nomart>NORMA.GONZALES@sakilacustomer.org</nomart></articulos><articulos><codart>NORMAN CURRIER</codart><nomart>NORMAN.CURRIER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>OLGA JIMENEZ</codart><nomart>OLGA.JIMENEZ@sakilacustomer.org</nomart></articulos><articulos><codart>OSCAR AQUINO</codart><nomart>OSCAR.AQUINO@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>PAMELA BAKER</codart><nomart>PAMELA.BAKER@sakilacustomer.org</nomart></articulos><articulos><codart>PATRICIA JOHNSON</codart><nomart>PATRICIA.JOHNSON@sakilacustomer.org</nomart></articulos><articulos><codart>PATRICK NEWSOM</codart><nomart>PATRICK.NEWSOM@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>PATSY DAVIDSON</codart><nomart>PATSY.DAVIDSON@sakilacustomer.org</nomart></articulos><articulos><codart>PAUL TROUT</codart><nomart>PAUL.TROUT@sakilacustomer.org</nomart></articulos><articulos><codart>PAULA BRYANT</codart><nomart>PAULA.BRYANT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>PAULINE HENRY</codart><nomart>PAULINE.HENRY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>PEARL GARZA</codart><nomart>PEARL.GARZA@sakilacustomer.org</nomart></articulos><articulos><codart>PEDRO CHESTNUT</codart><nomart>PEDRO.CHESTNUT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>PEGGY MYERS</codart><nomart>PEGGY.MYERS@sakilacustomer.org</nomart></articulos><articulos><codart>PENNY NEAL</codart><nomart>PENNY.NEAL@sakilacustomer.org</nomart></articulos><articulos><codart>PERRY SWAFFORD</codart><nomart>PERRY.SWAFFORD@sakilacustomer.org</nomart></articulos><articulos><codart>PETER MENARD</codart><nomart>PETER.MENARD@sakilacustomer.org</nomart></articulos><articulos><codart>PHILIP CAUSEY</codart><nomart>PHILIP.CAUSEY@sakilacustomer.org</nomart></articulos><articulos><codart>PHILLIP HOLM</codart><nomart>PHILLIP.HOLM@sakilacustomer.org</nomart></articulos><articulos><codart>PHYLLIS FOSTER</codart><nomart>PHYLLIS.FOSTER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>PRISCILLA LOWE</codart><nomart>PRISCILLA.LOWE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>RACHEL BARNES</codart><nomart>RACHEL.BARNES@sakilacustomer.org</nomart></articulos><articulos><codart>RAFAEL ABNEY</codart><nomart>RAFAEL.ABNEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>RALPH MADRIGAL</codart><nomart>RALPH.MADRIGAL@sakilacustomer.org</nomart></articulos><articulos><codart>RAMON CHOATE</codart><nomart>RAMON.CHOATE@sakilacustomer.org</nomart></articulos><articulos><codart>RAMONA HALE</codart><nomart>RAMONA.HALE@sakilacustomer.org</nomart></articulos><articulos><codart>RANDALL NEUMANN</codart><nomart>RANDALL.NEUMANN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>RANDY GAITHER</codart><nomart>RANDY.GAITHER@sakilacustomer.org</nomart></articulos><articulos><codart>RAUL FORTIER</codart><nomart>RAUL.FORTIER@sakilacustomer.org</nomart></articulos><articulos><codart>RAY HOULE</codart><nomart>RAY.HOULE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>RAYMOND MCWHORTER</codart><nomart>RAYMOND.MCWHORTER@sakilacustomer.org</nomart></articulos><articulos><codart>REBECCA SCOTT</codart><nomart>REBECCA.SCOTT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>REGINA BERRY</codart><nomart>REGINA.BERRY@sakilacustomer.org</nomart></articulos><articulos><codart>REGINALD KINDER</codart><nomart>REGINALD.KINDER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>RENE MCALISTER</codart><nomart>RENE.MCALISTER@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>RENEE LANE</codart><nomart>RENEE.LANE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>RHONDA KENNEDY</codart><nomart>RHONDA.KENNEDY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>RICARDO MEADOR</codart><nomart>RICARDO.MEADOR@sakilacustomer.org</nomart></articulos><articulos><codart>RICHARD MCCRARY</codart><nomart>RICHARD.MCCRARY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>RICK MATTOX</codart><nomart>RICK.MATTOX@sakilacustomer.org</nomart></articulos><articulos><codart>RICKY SHELBY</codart><nomart>RICKY.SHELBY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>RITA GRAHAM</codart><nomart>RITA.GRAHAM@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ROBERT BAUGHMAN</codart><nomart>ROBERT.BAUGHMAN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ROBERTA HARPER</codart><nomart>ROBERTA.HARPER@sakilacustomer.org</nomart></articulos><articulos><codart>ROBERTO VU</codart><nomart>ROBERTO.VU@sakilacustomer.org</nomart></articulos><articulos><codart>ROBIN HAYES</codart><nomart>ROBIN.HAYES@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>RODNEY MOELLER</codart><nomart>RODNEY.MOELLER@sakilacustomer.org</nomart></articulos><articulos><codart>ROGER QUINTANILLA</codart><nomart>ROGER.QUINTANILLA@sakilacustomer.org</nomart></articulos><articulos><codart>ROLAND SOUTH</codart><nomart>ROLAND.SOUTH@sakilacustomer.org</nomart></articulos><articulos><codart>RON DELUCA</codart><nomart>RON.DELUCA@sakilacustomer.org</nomart></articulos><articulos><codart>RONALD WEINER</codart><nomart>RONALD.WEINER@sakilacustomer.org</nomart></articulos><articulos><codart>RONNIE RICKETTS</codart><nomart>RONNIE.RICKETTS@sakilacustomer.org</nomart></articulos><articulos><codart>ROSA REYNOLDS</codart><nomart>ROSA.REYNOLDS@sakilacustomer.org</nomart></articulos><articulos><codart>ROSE HOWARD</codart><nomart>ROSE.HOWARD@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ROSEMARY SCHMIDT</codart><nomart>ROSEMARY.SCHMIDT@sakilacustomer.org</nomart></articulos><articulos><codart>ROSS GREY</codart><nomart>ROSS.GREY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>ROY WHITING</codart><nomart>ROY.WHITING@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>RUBEN GEARY</codart><nomart>RUBEN.GEARY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>RUBY WASHINGTON</codart><nomart>RUBY.WASHINGTON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>RUSSELL BRINSON</codart><nomart>RUSSELL.BRINSON@sakilacustomer.org</nomart></articulos><articulos><codart>RUTH MARTINEZ</codart><nomart>RUTH.MARTINEZ@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>RYAN SALISBURY</codart><nomart>RYAN.SALISBURY@sakilacustomer.org</nomart></articulos><articulos><codart>SALLY PIERCE</codart><nomart>SALLY.PIERCE@sakilacustomer.org</nomart></articulos><articulos><codart>SALVADOR TEEL</codart><nomart>SALVADOR.TEEL@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>SAM MCDUFFIE</codart><nomart>SAM.MCDUFFIE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>SAMANTHA DUNCAN</codart><nomart>SAMANTHA.DUNCAN@sakilacustomer.org</nomart></articulos><articulos><codart>SAMUEL MARLOW</codart><nomart>SAMUEL.MARLOW@sakilacustomer.org</nomart></articulos><articulos><codart>SANDRA MARTIN</codart><nomart>SANDRA.MARTIN@sakilacustomer.org</nomart></articulos><articulos><codart>SARA PERRY</codart><nomart>SARA.PERRY@sakilacustomer.org</nomart></articulos><articulos><codart>SARAH LEWIS</codart><nomart>SARAH.LEWIS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>SCOTT SHELLEY</codart><nomart>SCOTT.SHELLEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>SEAN DOUGLASS</codart><nomart>SEAN.DOUGLASS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>SERGIO STANFIELD</codart><nomart>SERGIO.STANFIELD@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>SETH HANNON</codart><nomart>SETH.HANNON@sakilacustomer.org</nomart></articulos><articulos><codart>SHANE MILLARD</codart><nomart>SHANE.MILLARD@sakilacustomer.org</nomart></articulos><articulos><codart>SHANNON FREEMAN</codart><nomart>SHANNON.FREEMAN@sakilacustomer.org</nomart></articulos><articulos><codart>SHARON ROBINSON</codart><nomart>SHARON.ROBINSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>SHAWN HEATON</codart><nomart>SHAWN.HEATON@sakilacustomer.org</nomart></articulos><articulos><codart>SHEILA WELLS</codart><nomart>SHEILA.WELLS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>SHELLY WATTS</codart><nomart>SHELLY.WATTS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>SHERRI RHODES</codart><nomart>SHERRI.RHODES@sakilacustomer.org</nomart></articulos><articulos><codart>SHERRY MARSHALL</codart><nomart>SHERRY.MARSHALL@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>SHIRLEY ALLEN</codart><nomart>SHIRLEY.ALLEN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>SIDNEY BURLESON</codart><nomart>SIDNEY.BURLESON@sakilacustomer.org</nomart></articulos><articulos><codart>SONIA GREGORY</codart><nomart>SONIA.GREGORY@sakilacustomer.org</nomart></articulos><articulos><codart>STACEY MONTGOMERY</codart><nomart>STACEY.MONTGOMERY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>STACY CUNNINGHAM</codart><nomart>STACY.CUNNINGHAM@sakilacustomer.org</nomart></articulos><articulos><codart>STANLEY SCROGGINS</codart><nomart>STANLEY.SCROGGINS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>STELLA MORENO</codart><nomart>STELLA.MORENO@sakilacustomer.org</nomart></articulos><articulos><codart>STEPHANIE MITCHELL</codart><nomart>STEPHANIE.MITCHELL@sakilacustomer.org</nomart></articulos><articulos><codart>STEPHEN QUALLS</codart><nomart>STEPHEN.QUALLS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>STEVE MACKENZIE</codart><nomart>STEVE.MACKENZIE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>STEVEN CURLEY</codart><nomart>STEVEN.CURLEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>SUE PETERS</codart><nomart>SUE.PETERS@sakilacustomer.org</nomart></articulos><articulos><codart>SUSAN WILSON</codart><nomart>SUSAN.WILSON@sakilacustomer.org</nomart></articulos><articulos><codart>SUZANNE NICHOLS</codart><nomart>SUZANNE.NICHOLS@sakilacustomer.org</nomart></articulos><articulos><codart>SYLVIA ORTIZ</codart><nomart>SYLVIA.ORTIZ@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>TAMARA NGUYEN</codart><nomart>TAMARA.NGUYEN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>TAMMY SANDERS</codart><nomart>TAMMY.SANDERS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>TANYA GILBERT</codart><nomart>TANYA.GILBERT@sakilacustomer.org</nomart></articulos><articulos><codart>TARA RYAN</codart><nomart>TARA.RYAN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>TED BREAUX</codart><nomart>TED.BREAUX@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>TERESA ROGERS</codart><nomart>TERESA.ROGERS@sakilacustomer.org</nomart></articulos><articulos><codart>TERRANCE ROUSH</codart><nomart>TERRANCE.ROUSH@sakilacustomer.org</nomart></articulos><articulos><codart>TERRENCE GUNDERSON</codart><nomart>TERRENCE.GUNDERSON@sakilacustomer.org</nomart></articulos><articulos><codart>TERRI VASQUEZ</codart><nomart>TERRI.VASQUEZ@sakilacustomer.org</nomart></articulos><articulos><codart>TERRY CARLSON</codart><nomart>TERRY.CARLSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>TERRY GRISSOM</codart><nomart>TERRY.GRISSOM@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>THELMA MURRAY</codart><nomart>THELMA.MURRAY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>THEODORE CULP</codart><nomart>THEODORE.CULP@sakilacustomer.org</nomart></articulos><articulos><codart>THERESA WATSON</codart><nomart>THERESA.WATSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>THOMAS GRIGSBY</codart><nomart>THOMAS.GRIGSBY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>TIFFANY JORDAN</codart><nomart>TIFFANY.JORDAN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>TIM CARY</codart><nomart>TIM.CARY@sakilacustomer.org</nomart></articulos><articulos><codart>TIMOTHY BUNN</codart><nomart>TIMOTHY.BUNN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>TINA SIMMONS</codart><nomart>TINA.SIMMONS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>TODD TAN</codart><nomart>TODD.TAN@sakilacustomer.org</nomart></articulos><articulos><codart>TOM MILNER</codart><nomart>TOM.MILNER@sakilacustomer.org</nomart></articulos><articulos><codart>TOMMY COLLAZO</codart><nomart>TOMMY.COLLAZO@sakilacustomer.org</nomart></articulos><articulos><codart>TONI HOLT</codart><nomart>TONI.HOLT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>TONY CARRANZA</codart><nomart>TONY.CARRANZA@sakilacustomer.org</nomart></articulos><articulos><codart>TONYA CHAPMAN</codart><nomart>TONYA.CHAPMAN@sakilacustomer.org</nomart></articulos><articulos><codart>TRACEY BARRETT</codart><nomart>TRACEY.BARRETT@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>TRACY COLE</codart><nomart>TRACY.COLE@sakilacustomer.org</nomart></articulos><articulos><codart>TRACY HERRMANN</codart><nomart>TRACY.HERRMANN@sakilacustomer.org</nomart></articulos><articulos><codart>TRAVIS ESTEP</codart><nomart>TRAVIS.ESTEP@sakilacustomer.org</nomart></articulos><articulos><codart>TROY QUIGLEY</codart><nomart>TROY.QUIGLEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>TYLER WREN</codart><nomart>TYLER.WREN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>TYRONE ASHER</codart><nomart>TYRONE.ASHER@sakilacustomer.org</nomart></articulos><articulos><codart>VALERIE BLACK</codart><nomart>VALERIE.BLACK@sakilacustomer.org</nomart></articulos><articulos><codart>VANESSA SIMS</codart><nomart>VANESSA.SIMS@sakilacustomer.org</nomart></articulos><articulos><codart>VELMA LUCAS</codart><nomart>VELMA.LUCAS@sakilacustomer.org</nomart></articulos><articulos><codart>VERA MCCOY</codart><nomart>VERA.MCCOY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>VERNON CHAPA</codart><nomart>VERNON.CHAPA@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>VERONICA STONE</codart><nomart>VERONICA.STONE@sakilacustomer.org</nomart></articulos><articulos><codart>VICKI FIELDS</codart><nomart>VICKI.FIELDS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>VICKIE BREWER</codart><nomart>VICKIE.BREWER@sakilacustomer.org</nomart></articulos><articulos><codart>VICTOR BARKLEY</codart><nomart>VICTOR.BARKLEY@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>VICTORIA GIBSON</codart><nomart>VICTORIA.GIBSON@sakilacustomer.org</nomart></articulos><articulos><codart>VINCENT RALSTON</codart><nomart>VINCENT.RALSTON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>VIOLA HANSON</codart><nomart>VIOLA.HANSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>VIOLET RODRIQUEZ</codart><nomart>VIOLET.RODRIQUEZ@sakilacustomer.org</nomart></articulos><articulos><codart>VIRGIL WOFFORD</codart><nomart>VIRGIL.WOFFORD@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>VIRGINIA GREEN</codart><nomart>VIRGINIA.GREEN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>VIVIAN RUIZ</codart><nomart>VIVIAN.RUIZ@sakilacustomer.org</nomart></articulos><articulos><codart>WADE DELVALLE</codart><nomart>WADE.DELVALLE@sakilacustomer.org</nomart></articulos><articulos><codart>WALLACE SLONE</codart><nomart>WALLACE.SLONE@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>WALTER PERRYMAN</codart><nomart>WALTER.PERRYMAN@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>WANDA PATTERSON</codart><nomart>WANDA.PATTERSON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>WARREN SHERROD</codart><nomart>WARREN.SHERROD@sakilacustomer.org</nomart></articulos><articulos><codart>WAYNE TRUONG</codart><nomart>WAYNE.TRUONG@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>WENDY HARRISON</codart><nomart>WENDY.HARRISON@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>2</codigo>
+		                              <nombre>28 MySQL Boulevard</nombre><articulos><codart>WESLEY BULL</codart><nomart>WESLEY.BULL@sakilacustomer.org</nomart></articulos><articulos><codart>WILLARD LUMPKIN</codart><nomart>WILLARD.LUMPKIN@sakilacustomer.org</nomart></articulos><articulos><codart>WILLIAM SATTERFIELD</codart><nomart>WILLIAM.SATTERFIELD@sakilacustomer.org</nomart></articulos><articulos><codart>WILLIE HOWELL</codart><nomart>WILLIE.HOWELL@sakilacustomer.org</nomart></articulos><articulos><codart>WILLIE MARKHAM</codart><nomart>WILLIE.MARKHAM@sakilacustomer.org</nomart></articulos><articulos><codart>WILMA RICHARDS</codart><nomart>WILMA.RICHARDS@sakilacustomer.org</nomart></articulos><articulos><codart>YOLANDA WEAVER</codart><nomart>YOLANDA.WEAVER@sakilacustomer.org</nomart></articulos><articulos><codart>YVONNE WATKINS</codart><nomart>YVONNE.WATKINS@sakilacustomer.org</nomart></articulos></categoria><categoria>
+		                              <codigo>1</codigo>
+		                              <nombre>47 MySakila Drive</nombre><articulos><codart>ZACHARY HITE</codart><nomart>ZACHARY.HITE@sakilacustomer.org</nomart></articulos>      </categoria>   </clasificacion></informacion>
